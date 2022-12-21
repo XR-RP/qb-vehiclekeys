@@ -10,6 +10,7 @@ local Translations = {
         vgetkeys = 'Du fick nycklar till fordonet!',
         fpid = 'Fyll i spelar-ID och Plate-argument',
         cjackfail = 'Bilkapning misslyckades!',
+        vehclose = 'Det finns inget fordon i närheten!',
     },
     progress = {
         takekeys = 'Tar nycklar från kroppen...',
